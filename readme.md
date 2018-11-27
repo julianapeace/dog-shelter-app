@@ -1,5 +1,6 @@
 # GET MY PUP
 ## A full operations tool for animal rescue shelters to keep animal inventory up-to-date with extreme ease.
+ ![Dog Dog Dog](https://media.giphy.com/media/3o6nV0fsciK23Jj8mQ/giphy.gif) 
 
 ### [DigitalCrafts](https://www.DigitalCrafts.com)' group project week
 
